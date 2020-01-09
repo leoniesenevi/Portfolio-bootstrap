@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+      background-color: #ececec;
+  }
+
+  .container {
+      margin-top: 10px;
+     
+  }
+
+  .middle {
+      margin-top: 40px;
+      color: #4aaaa5;
+    
+  }
+  
+  .text{
+    color: #777777;
+       font-size: 16px;
+  }
+
+  /* .maincard {
+      margin-top: 50px;
+      margin-left: 100px;
+  } */
+ 
+
+  .card-footer {
+      bottom: 0;
+      position: fixed;
+      text-align: center;
+      width: 100%;
+  }
+
+  .name {
+  background-color: #4aaaa5;
+  color: #fff;
+  font-size: 36px;
+  font-weight: bold;
+  height: 70px;
+  }
+  .mid {
+    background-color: azure;
+    width: 960px;
+    margin-left: 200px;
+
+  }
+
+  .last{
+    background-color: azure;
+    width: 960px;
+    margin-left: 200px;
+  }
+
+  .nav{
+    margin-top: 10px;
+  }
+  
+   
+  .first{
+    
+    background-color: azure;
+    width: 960px;
+    margin-left: 200px;
+   }
+  
+  .second{
+    margin-top: 5px;
+    background-color: azure;
+    width: 960px;
+    margin-left: 200px;
+  }
+
+  .third {
+    margin-top: 5px;
+    background-color: azure;
+    width: 960px;
+    margin-left: 200px;
+  }
+  .pic1 h4 {
+    position: absolute;
+    background-color:  #4aaaa5;
+    color: white;
+    padding: 13px 5px;
+    height: 50px;
+    bottom: 1px;
+    width:200px;
+    text-align: center;
+  }
+
+  .form{
+    
+    background-color: azure;
+    width: 960px;
+    margin-left: 200px;
+    padding-bottom: 50px;
+  }
