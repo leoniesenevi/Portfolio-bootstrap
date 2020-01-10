@@ -44,48 +44,28 @@
   text-align: center;
   }
 
-  name:hover{
-    background-color: red;
+  .name:hover{
+    background-color: #2f9691;
+    text-decoration: none;
   }
 
 
-  .mid {
-    background-color: azure;
-    width: 960px;
-    margin-left: 200px;
-
-  }
-
-  .last{
-    background-color: azure;
-    width: 960px;
-    margin-left: 200px;
-  }
-
-  .nav{
+    .nav{
     margin-top: 10px;
   }
   
-   
-  .first{
-    
-    background-color: azure;
-    width: 960px;
-    margin-left: 200px;
-   }
+   s 
   
   .second{
     margin-top: 5px;
-    background-color: azure;
-    width: 960px;
-    margin-left: 200px;
+     
+   
   }
 
   .third {
     margin-top: 5px;
-    background-color: azure;
-    width: 960px;
-    margin-left: 200px;
+     
+    
   }
   .pic1 h4 {
     position: absolute;
@@ -100,8 +80,27 @@
 
   .form{
     
-    background-color: azure;
+   
+    width: 960px;
+    padding-bottom: 50px;
+  }
+
+  .wrapper {
+    background-color: seashell;
     width: 960px;
     margin-left: 200px;
-    padding-bottom: 50px;
+  }
+
+  .wrapper2{
+    background-color: seashell;
+    width: 960px;
+    margin-left: 200px;
+    margin-top: 10px;
+  }
+
+  .wrapper3{
+    background-color: seashell;
+    width: 960px;
+    margin-left: 200px;
+    margin-top: 10px;
   }
